@@ -13,5 +13,5 @@ You are going to develop memory game using **javascript**. This is a fully brows
 * When all cards ars matched game will finish.
 
 # How to Run:
-Open [index.html] file to view the game in your browser.
+Open [index.html](https://github.com/Rajeshvirola/MemoryGame/blob/master/index.html) file to view the game in your browser.
 
