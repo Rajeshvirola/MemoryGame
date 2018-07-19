@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "repo-on-GitHub"]
+	url = https://github.com/RajeshVirola/MemoryGame.git
+	fetch = +refs/heads/*:refs/remotes/repo-on-GitHub/*
+[branch "master"]
+	remote = repo-on-GitHub
+	merge = refs/heads/master
